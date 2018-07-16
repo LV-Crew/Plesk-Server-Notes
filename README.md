@@ -16,8 +16,8 @@ https://github.com/LV-Crew/Plesk-Notes
 
 <br>
 
-SU for system users: (Not done yet!)  
-Follows...  
+SU for system users:  
+Command Line: usermod -aG sudo -username-
 
 <br>
 
