@@ -46,9 +46,9 @@ Files to back up: sshd_config + User Keys
 .htpasswd to saver place:  
 Follows...  
 The old location is here:  
-/var/www/vhosts/<domain>/httpdocs/administrator/  
+/var/www/vhosts/-domain-/httpdocs/administrator/  
 The new location is here:  
-/var/www/vhosts/<domain>/private/  
+/var/www/vhosts/-domain-/private/  
 Files to back up: .htaccess, .htpasswd  
 
 <br>
@@ -56,9 +56,9 @@ Files to back up: .htaccess, .htpasswd
 error-file to saver place:  
 We also move the Joomla log files to a new directory to make it more secure. Because it contains user IP addresses, it is "sensitive" and should be protected for data privacy reasons.  
 The old location is here:  
-/var/www/vhosts/<domain>/httpdocs/administrator/logs/error.php  
+/var/www/vhosts/-domain-/httpdocs/administrator/logs/error.php  
 The new location is here:  
-/var/www/vhosts/<domain>/logs/joomla/error.php  
+/var/www/vhosts/-domain-/logs/joomla/error.php  
 
 
 <br>
