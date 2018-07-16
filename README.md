@@ -1,13 +1,20 @@
 # Plesk-Server-Notes
-Just some Plesk-Server-Notes to show up how to set up a Ubuntu 16.04.4 Server by HostEurope.de by a example...
+Just some Plesk-Server-Notes to show up how to set up a Ubuntu 16.04.4 Server by HostEurope.de by a example...  
+Renember to make always backups of changed files to have them again e.g. for migration.  
+Renember to first try to solve issues with Plesk and Plesk-Extensions - so you have it easier later to migrate with Plesk Migrator!  
 
 <br>
 
 Pakets to install on the command line:  
 - mc
-- rkhunter filerights
+- 'rkhunter filerights'
 - chkrootkit
 - rkhunter
+
+<br>
+
+Set up Host Name:
+Follows...
 
 <br>
 
