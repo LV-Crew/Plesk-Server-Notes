@@ -24,6 +24,12 @@ Files to back up: hostname_vps, hostname_vps.service, my.hosts
 
 <br>
 
+Setup Plesk & Extensions:  
+This is a own documentation...  
+https://github.com/LV-Crew/Plesk-Notes  
+
+<br>
+
 SSH:  
 I would definitely recommend using RSA keys for SSH, that is what I use for my personal SSH server. I personally generate 4096-bit RSA keys, so I would recommend that, as well, just for extra security. Usually the default is 2048. It's also important to remember to disabled passwords,  
 "PasswordAuthentication no" in the sshd_config, so the SSH server requires keys and does not allow passwords.  
