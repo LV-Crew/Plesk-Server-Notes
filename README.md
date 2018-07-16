@@ -31,6 +31,8 @@ Addininat Pakets to install on command line:
 
 Sell domains: (domain name speculation)  
 ...always just suggest advertising domain names on as many sites as possible...  
+...there is no any one special website for it, everyone just uses all of them to increase their chances to find someone they can negotiate a good price with.  
+DomainHolder.io  
 https://auctions.godaddy.com/  
 https://sedo.com/de/  
 
@@ -38,6 +40,6 @@ https://sedo.com/de/
 
 Escrow Service for domain sell:  
 https://www.payoneer.com/escrow/domain-names/  
-And another escrow website is https://www.escrow.com/  
+https://www.escrow.com/  
 
 <br>
