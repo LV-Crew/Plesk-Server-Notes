@@ -10,6 +10,17 @@ Way to go:
 
 <br>
 
+Setup for the Plesk-only Part & Extensions:  
+This is a own documentation...  
+https://github.com/LV-Crew/Plesk-Notes  
+
+<br>
+
+SU for system users: (Not done yet!)  
+Follows...  
+
+<br>
+
 Pakets to install on the command line:  
 - mc
 - 'rkhunter filerights'
@@ -21,12 +32,6 @@ Pakets to install on the command line:
 Set up Host Name:  
 Follows...  
 Files to back up: hostname_vps, hostname_vps.service, my.hosts  
-
-<br>
-
-Setup Plesk & Extensions:  
-This is a own documentation...  
-https://github.com/LV-Crew/Plesk-Notes  
 
 <br>
 
