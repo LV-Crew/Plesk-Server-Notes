@@ -17,7 +17,8 @@ https://github.com/LV-Crew/Plesk-Notes
 <br>
 
 SU for system users:  
-Command Line: usermod -aG sudo -username-
+Create new user: https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart  
+Change old user with Command Line: usermod -aG sudo -username-  
 
 <br>
 
