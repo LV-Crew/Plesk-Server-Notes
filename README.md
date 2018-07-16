@@ -42,6 +42,12 @@ Addininat Pakets to install on command line:
 <br>
 
 Sell domains: (domain name speculation)  
+Add parking website from e.g. DomainHolder.io.  
+Example: https://y-lounge.com/  
+
+<br>
+
+Advertise domains: (domain name speculation)  
 ...always just suggest advertising domain names on as many sites as possible...  
 ...there is no any one special website for it, everyone just uses all of them to increase their chances to find someone they can negotiate a good price with.  
 DomainHolder.io  
