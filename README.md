@@ -29,8 +29,8 @@ Addininat Pakets to install on command line:
 
 <br>
 
-Sell domains:  
-Just some more links on domain name speculation:  
+Sell domains: (domain name speculation)  
+...always just suggest advertising domain names on as many sites as possible...  
 https://auctions.godaddy.com/  
 https://sedo.com/de/  
 
