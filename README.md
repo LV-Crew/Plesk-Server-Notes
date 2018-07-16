@@ -43,6 +43,18 @@ Files to back up: sshd_config + User Keys
 
 <br>
 
+.htpasswd to saver place:  
+Follows...  
+To: private\  
+Files to back up: .htaccess, .htpasswd  
+
+<br>
+
+error-file to saver place:  
+Follows...  
+
+<br>
+
 Fail2ban for Joomla!: (Not done yet!)  
 https://www.andrehotzler.de/en/blog/technology/63-protect-joomla-login-with-fail2ban.html  
 Files to back up: ...  
