@@ -18,8 +18,8 @@ Pakets to install on the command line:
 
 <br>
 
-Set up Host Name:
-Follows...
+Set up Host Name:  
+Follows...  
 
 <br>
 
