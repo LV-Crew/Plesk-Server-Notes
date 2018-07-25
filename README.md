@@ -44,6 +44,11 @@ Files to back up: sshd_config + User Keys
 
 <br>
 
+# Config 'bind': (Not done yet!)  
+https://www.hosteurope.de/faq/server/sicherheit-spam/risikopotenzial-bind/  
+
+<br>
+
 # .htpasswd to saver place:  
 Follows...  
 The old location is here:  
